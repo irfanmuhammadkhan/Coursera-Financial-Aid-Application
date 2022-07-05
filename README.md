@@ -1,1 +1,1 @@
-# Coursera-Financial-Aid-Application
+Coursera Financial Aid Application
